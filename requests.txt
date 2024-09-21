@@ -1,0 +1,6 @@
+mysql-connector-python
+pandas
+scikit-learn
+flask
+python-dotenv
+flask-restful
